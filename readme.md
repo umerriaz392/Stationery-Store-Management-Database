@@ -62,7 +62,7 @@ It ensures data integrity and automates stock management through triggers.
    @Stationary Store Management.sql
 Verify tables, triggers, and sequences are created.
 
-📊 Sample Data
+## 📊 Sample Data
 The script includes sample data for:
 
 10 Customers
@@ -77,13 +77,13 @@ The script includes sample data for:
 
 This allows you to test functionality immediately after import.
 
-##👤 Roles & Privileges
+## 👤 Roles & Privileges
 Role	Privileges
 Admin	Full access to all tables and triggers
 Manager	Can view and update inventory, orders, and employees
 Salesperson	Can create orders and register new customers
 
-##🧠 Learning Outcomes
+## 🧠 Learning Outcomes
 Database design and normalization
 
 Use of foreign keys and constraints
@@ -93,3 +93,4 @@ Implementation of triggers and audit logs
 Managing role-based permissions
 
 Writing maintainable and modular SQL scripts
+
